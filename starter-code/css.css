@@ -1,0 +1,111 @@
+img {
+  width: 2000px;
+}
+
+.carousel-caption {}
+
+.text-header {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+.text-header>a:visited {
+  color: black;
+}
+
+.text-header>a:hover {
+  color: red;
+}
+
+.mainmenu {
+  margin-top: 65px;
+}
+
+.sronly {
+  background-color: red;
+}
+
+.row {
+  position: relative;
+  background-color: red;
+  left: -400px;
+  height: 200px;
+}
+
+.row2 {
+  margin-top: 0;
+}
+
+.container {
+  position: relative;
+  left: 0px;
+  margin-right: 200px;
+  width: 2000px;
+}
+
+.site-title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 300px;
+}
+
+.homewidget {
+  position: relative;
+  left: 0px;
+}
+
+header {
+  height: 160px;
+  background-color: white;
+}
+
+.block2 {
+  height: 1000px;
+  background-color: white;
+}
+
+.block3 {
+  height: 70px;
+  background-color: gray;
+  margin-top: 210px;
+  z-index: 2px;
+}
+
+.block4 {
+  height: 800px;
+  background-color: green;
+}
+
+.block5 {
+  height: 200px;
+  background-color: purple;
+}
+
+.block6 {
+  height: 120px;
+  background-color: red;
+}
+
+a>img {
+  width: 500px;
+}
+
+.thumbnail {
+  margin-left: 300px;
+  width: 50%;
+}
+
+
+/*  <header>
+    <div class="page-header site-branding col-sm-4">
+      <h1 class="site-title">REVERA</h1></div><small>
+      <div class="col-sm-8 mainmenu">
+<div class="text-header"><a href="">Home </a></div>
+<div class="text-header"><a href="">About</a></div>
+<div class="text-header"><a href="">Sample page</a></div>
+<div class="text-header"><a href="">Portfolio</a></div>
+<div class="text-header"><a href="">Blog </a></div>
+<div class="text-header"><a href="">Parent page>></a></div>
+<div class="text-header"><a href="">Contact</a></div></div>
+</header>*
